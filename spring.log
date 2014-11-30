@@ -194,3 +194,12 @@
 [2014-11-30 21:40:10 +0000] [8017] [client] got pid: 8018
 [2014-11-30 21:40:13 +0000] [6279] [application:test] 8018 exited with 0
 [2014-11-30 21:40:13 +0000] [8017] [client] got exit status 0
+[2014-11-30 21:43:17 +0000] [6225] [server] accepted client
+[2014-11-30 21:43:17 +0000] [6225] [server] running command rake
+[2014-11-30 21:43:17 +0000] [8393] [client] sending command
+[2014-11-30 21:43:17 +0000] [6279] [application:test] got client
+[2014-11-30 21:43:17 +0000] [6279] [application:test] forked 8394
+[2014-11-30 21:43:17 +0000] [6225] [application_manager:test] got worker pid 8394
+[2014-11-30 21:43:17 +0000] [8393] [client] got pid: 8394
+[2014-11-30 21:43:19 +0000] [6279] [application:test] 8394 exited with 0
+[2014-11-30 21:43:19 +0000] [8393] [client] got exit status 0
