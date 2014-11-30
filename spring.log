@@ -1,0 +1,196 @@
+[2014-11-30 21:23:04 +0000] [6188] [server] started on /var/folders/eD/eD4aPs2NHS0RJ8buKAw5E++++TI/-Tmp-/spring/722dd8f1fd1cba5a0606378a92c0a778
+[2014-11-30 21:23:04 +0000] [6188] [server] accepted client
+[2014-11-30 21:23:04 +0000] [6188] [server] running command rake
+[2014-11-30 21:23:04 +0000] [6188] [application_manager:development] child not running; starting
+[2014-11-30 21:23:04 +0000] [6187] [client] sending command
+[2014-11-30 21:23:04 +0000] [6189] [application:development] initialized -> running
+[2014-11-30 21:23:04 +0000] [6189] [application:development] got client
+[2014-11-30 21:23:04 +0000] [6189] [application:development] preloading app
+[2014-11-30 21:23:07 +0000] [6189] [application:development] forked 6191
+[2014-11-30 21:23:07 +0000] [6188] [application_manager:development] got worker pid 6191
+[2014-11-30 21:23:07 +0000] [6187] [client] got pid: 6191
+[2014-11-30 21:23:08 +0000] [6189] [application:development] 6191 exited with 0
+[2014-11-30 21:23:08 +0000] [6187] [client] got exit status 0
+[2014-11-30 21:24:54 +0000] [6188] [server] accepted client
+[2014-11-30 21:24:54 +0000] [6188] [server] running command rake
+[2014-11-30 21:24:54 +0000] [6216] [client] sending command
+[2014-11-30 21:24:54 +0000] [6189] [application:development] got client
+[2014-11-30 21:24:54 +0000] [6189] [application:development] forked 6217
+[2014-11-30 21:24:54 +0000] [6188] [application_manager:development] got worker pid 6217
+[2014-11-30 21:24:54 +0000] [6216] [client] got pid: 6217
+[2014-11-30 21:24:54 +0000] [6189] [application:development] 6217 exited with 0
+[2014-11-30 21:24:54 +0000] [6216] [client] got exit status 0
+[2014-11-30 21:25:01 +0000] [6188] [server] shutting down
+[2014-11-30 21:25:01 +0000] [6188] [application_manager:development] stopping
+[2014-11-30 21:25:01 +0000] [6189] [application:development] running -> terminating
+[2014-11-30 21:25:01 +0000] [6189] [application:development] terminating -> exiting
+[2014-11-30 21:25:01 +0000] [6188] [application_manager:development] child 6189 shutdown
+[2014-11-30 21:25:05 +0000] [6225] [server] started on /var/folders/eD/eD4aPs2NHS0RJ8buKAw5E++++TI/-Tmp-/spring/722dd8f1fd1cba5a0606378a92c0a778
+[2014-11-30 21:25:05 +0000] [6225] [server] accepted client
+[2014-11-30 21:25:05 +0000] [6225] [server] running command rake
+[2014-11-30 21:25:05 +0000] [6225] [application_manager:development] child not running; starting
+[2014-11-30 21:25:05 +0000] [6224] [client] sending command
+[2014-11-30 21:25:06 +0000] [6226] [application:development] initialized -> running
+[2014-11-30 21:25:06 +0000] [6226] [application:development] got client
+[2014-11-30 21:25:06 +0000] [6226] [application:development] preloading app
+[2014-11-30 21:25:08 +0000] [6226] [application:development] forked 6228
+[2014-11-30 21:25:08 +0000] [6225] [application_manager:development] got worker pid 6228
+[2014-11-30 21:25:08 +0000] [6224] [client] got pid: 6228
+[2014-11-30 21:25:08 +0000] [6226] [application:development] 6228 exited with 0
+[2014-11-30 21:25:08 +0000] [6224] [client] got exit status 0
+[2014-11-30 21:27:18 +0000] [6225] [server] accepted client
+[2014-11-30 21:27:18 +0000] [6225] [server] running command rake
+[2014-11-30 21:27:18 +0000] [6226] [application:development] got client
+[2014-11-30 21:27:18 +0000] [6257] [client] sending command
+[2014-11-30 21:27:18 +0000] [6226] [application:development] forked 6258
+[2014-11-30 21:27:18 +0000] [6225] [application_manager:development] got worker pid 6258
+[2014-11-30 21:27:18 +0000] [6257] [client] got pid: 6258
+[2014-11-30 21:27:18 +0000] [6226] [application:development] 6258 exited with 0
+[2014-11-30 21:27:18 +0000] [6257] [client] got exit status 0
+[2014-11-30 21:27:47 +0000] [6225] [server] accepted client
+[2014-11-30 21:27:47 +0000] [6225] [server] running command rake
+[2014-11-30 21:27:47 +0000] [6272] [client] sending command
+[2014-11-30 21:27:47 +0000] [6226] [application:development] got client
+[2014-11-30 21:27:47 +0000] [6226] [application:development] forked 6273
+[2014-11-30 21:27:47 +0000] [6225] [application_manager:development] got worker pid 6273
+[2014-11-30 21:27:47 +0000] [6272] [client] got pid: 6273
+[2014-11-30 21:27:48 +0000] [6226] [application:development] 6273 exited with 0
+[2014-11-30 21:27:48 +0000] [6272] [client] got exit status 0
+[2014-11-30 21:28:00 +0000] [6225] [server] accepted client
+[2014-11-30 21:28:00 +0000] [6225] [server] running command rake
+[2014-11-30 21:28:00 +0000] [6278] [client] sending command
+[2014-11-30 21:28:00 +0000] [6225] [application_manager:test] child not running; starting
+[2014-11-30 21:28:00 +0000] [6279] [application:test] initialized -> running
+[2014-11-30 21:28:00 +0000] [6279] [application:test] got client
+[2014-11-30 21:28:00 +0000] [6279] [application:test] preloading app
+[2014-11-30 21:28:02 +0000] [6279] [application:test] forked 6280
+[2014-11-30 21:28:02 +0000] [6225] [application_manager:test] got worker pid 6280
+[2014-11-30 21:28:02 +0000] [6278] [client] got pid: 6280
+[2014-11-30 21:28:03 +0000] [6279] [application:test] 6280 exited with 0
+[2014-11-30 21:28:03 +0000] [6278] [client] got exit status 0
+[2014-11-30 21:28:08 +0000] [6225] [server] accepted client
+[2014-11-30 21:28:08 +0000] [6225] [server] running command rake
+[2014-11-30 21:28:08 +0000] [6287] [client] sending command
+[2014-11-30 21:28:08 +0000] [6279] [application:test] got client
+[2014-11-30 21:28:08 +0000] [6279] [application:test] forked 6288
+[2014-11-30 21:28:08 +0000] [6225] [application_manager:test] got worker pid 6288
+[2014-11-30 21:28:08 +0000] [6287] [client] got pid: 6288
+[2014-11-30 21:28:10 +0000] [6279] [application:test] 6288 exited with 0
+[2014-11-30 21:28:10 +0000] [6287] [client] got exit status 0
+[2014-11-30 21:28:13 +0000] [6225] [server] accepted client
+[2014-11-30 21:28:13 +0000] [6225] [server] running command rake
+[2014-11-30 21:28:13 +0000] [6294] [client] sending command
+[2014-11-30 21:28:13 +0000] [6279] [application:test] got client
+[2014-11-30 21:28:13 +0000] [6279] [application:test] forked 6295
+[2014-11-30 21:28:13 +0000] [6225] [application_manager:test] got worker pid 6295
+[2014-11-30 21:28:13 +0000] [6294] [client] got pid: 6295
+[2014-11-30 21:28:14 +0000] [6279] [application:test] 6295 exited with 0
+[2014-11-30 21:28:14 +0000] [6294] [client] got exit status 0
+[2014-11-30 21:28:50 +0000] [6225] [server] accepted client
+[2014-11-30 21:28:50 +0000] [6225] [server] running command rake
+[2014-11-30 21:28:50 +0000] [6317] [client] sending command
+[2014-11-30 21:28:50 +0000] [6279] [application:test] got client
+[2014-11-30 21:28:50 +0000] [6279] [application:test] forked 6318
+[2014-11-30 21:28:50 +0000] [6225] [application_manager:test] got worker pid 6318
+[2014-11-30 21:28:50 +0000] [6317] [client] got pid: 6318
+[2014-11-30 21:28:51 +0000] [6279] [application:test] 6318 exited with 0
+[2014-11-30 21:28:51 +0000] [6317] [client] got exit status 0
+[2014-11-30 21:28:53 +0000] [6225] [server] accepted client
+[2014-11-30 21:28:53 +0000] [6225] [server] running command rake
+[2014-11-30 21:28:53 +0000] [6324] [client] sending command
+[2014-11-30 21:28:53 +0000] [6279] [application:test] got client
+[2014-11-30 21:28:53 +0000] [6279] [application:test] forked 6325
+[2014-11-30 21:28:53 +0000] [6225] [application_manager:test] got worker pid 6325
+[2014-11-30 21:28:53 +0000] [6324] [client] got pid: 6325
+[2014-11-30 21:28:54 +0000] [6279] [application:test] 6325 exited with 0
+[2014-11-30 21:28:54 +0000] [6324] [client] got exit status 0
+[2014-11-30 21:30:19 +0000] [6225] [server] accepted client
+[2014-11-30 21:30:19 +0000] [6225] [server] running command rake
+[2014-11-30 21:30:19 +0000] [6279] [application:test] got client
+[2014-11-30 21:30:19 +0000] [6348] [client] sending command
+[2014-11-30 21:30:19 +0000] [6279] [application:test] forked 6350
+[2014-11-30 21:30:19 +0000] [6225] [application_manager:test] got worker pid 6350
+[2014-11-30 21:30:19 +0000] [6348] [client] got pid: 6350
+[2014-11-30 21:30:21 +0000] [6279] [application:test] 6350 exited with 0
+[2014-11-30 21:30:21 +0000] [6348] [client] got exit status 0
+[2014-11-30 21:30:41 +0000] [6225] [server] accepted client
+[2014-11-30 21:30:41 +0000] [6225] [server] running command rake
+[2014-11-30 21:30:41 +0000] [6359] [client] sending command
+[2014-11-30 21:30:41 +0000] [6279] [application:test] got client
+[2014-11-30 21:30:42 +0000] [6279] [application:test] forked 6360
+[2014-11-30 21:30:42 +0000] [6225] [application_manager:test] got worker pid 6360
+[2014-11-30 21:30:42 +0000] [6359] [client] got pid: 6360
+[2014-11-30 21:30:44 +0000] [6279] [application:test] 6360 exited with 0
+[2014-11-30 21:30:44 +0000] [6359] [client] got exit status 0
+[2014-11-30 21:30:47 +0000] [6225] [server] accepted client
+[2014-11-30 21:30:47 +0000] [6225] [server] running command rake
+[2014-11-30 21:30:47 +0000] [6366] [client] sending command
+[2014-11-30 21:30:47 +0000] [6279] [application:test] got client
+[2014-11-30 21:30:47 +0000] [6279] [application:test] forked 6367
+[2014-11-30 21:30:47 +0000] [6225] [application_manager:test] got worker pid 6367
+[2014-11-30 21:30:47 +0000] [6366] [client] got pid: 6367
+[2014-11-30 21:30:49 +0000] [6279] [application:test] 6367 exited with 0
+[2014-11-30 21:30:49 +0000] [6366] [client] got exit status 0
+[2014-11-30 21:31:14 +0000] [6225] [server] accepted client
+[2014-11-30 21:31:14 +0000] [6225] [server] running command rake
+[2014-11-30 21:31:14 +0000] [6376] [client] sending command
+[2014-11-30 21:31:14 +0000] [6279] [application:test] got client
+[2014-11-30 21:31:14 +0000] [6279] [application:test] forked 6377
+[2014-11-30 21:31:14 +0000] [6225] [application_manager:test] got worker pid 6377
+[2014-11-30 21:31:14 +0000] [6376] [client] got pid: 6377
+[2014-11-30 21:31:15 +0000] [6279] [application:test] 6377 exited with 0
+[2014-11-30 21:31:15 +0000] [6376] [client] got exit status 0
+[2014-11-30 21:32:20 +0000] [6225] [server] accepted client
+[2014-11-30 21:32:20 +0000] [6225] [server] running command rake
+[2014-11-30 21:32:20 +0000] [6570] [client] sending command
+[2014-11-30 21:32:20 +0000] [6226] [application:development] got client
+[2014-11-30 21:32:20 +0000] [6226] [application:development] forked 6571
+[2014-11-30 21:32:20 +0000] [6225] [application_manager:development] got worker pid 6571
+[2014-11-30 21:32:20 +0000] [6570] [client] got pid: 6571
+[2014-11-30 21:32:21 +0000] [6226] [application:development] 6571 exited with 0
+[2014-11-30 21:32:21 +0000] [6570] [client] got exit status 0
+[2014-11-30 21:33:01 +0000] [6225] [server] accepted client
+[2014-11-30 21:33:01 +0000] [6225] [server] running command rake
+[2014-11-30 21:33:01 +0000] [6747] [client] sending command
+[2014-11-30 21:33:01 +0000] [6226] [application:development] got client
+[2014-11-30 21:33:01 +0000] [6226] [application:development] forked 6748
+[2014-11-30 21:33:01 +0000] [6225] [application_manager:development] got worker pid 6748
+[2014-11-30 21:33:01 +0000] [6747] [client] got pid: 6748
+[2014-11-30 21:33:02 +0000] [6226] [application:development] 6748 exited with 0
+[2014-11-30 21:33:02 +0000] [6747] [client] got exit status 0
+[2014-11-30 21:35:01 +0000] [6225] [server] accepted client
+[2014-11-30 21:35:01 +0000] [6225] [server] running command rake
+[2014-11-30 21:35:01 +0000] [6279] [application:test] got client
+[2014-11-30 21:35:01 +0000] [6939] [client] sending command
+[2014-11-30 21:35:01 +0000] [6279] [application:test] forked 6940
+[2014-11-30 21:35:01 +0000] [6225] [application_manager:test] got worker pid 6940
+[2014-11-30 21:35:01 +0000] [6939] [client] got pid: 6940
+[2014-11-30 21:35:03 +0000] [6279] [application:test] 6940 exited with 1
+[2014-11-30 21:35:03 +0000] [6939] [client] got exit status 1
+[2014-11-30 21:39:05 +0000] [6225] [server] accepted client
+[2014-11-30 21:39:05 +0000] [6225] [server] running command rake
+[2014-11-30 21:39:05 +0000] [7487] [client] sending command
+[2014-11-30 21:39:05 +0000] [6279] [application:test] got client
+[2014-11-30 21:39:05 +0000] [6279] [application:test] forked 7488
+[2014-11-30 21:39:05 +0000] [6225] [application_manager:test] got worker pid 7488
+[2014-11-30 21:39:05 +0000] [7487] [client] got pid: 7488
+[2014-11-30 21:39:07 +0000] [6279] [application:test] 7488 exited with 1
+[2014-11-30 21:39:07 +0000] [7487] [client] got exit status 1
+[2014-11-30 21:39:56 +0000] [6225] [server] accepted client
+[2014-11-30 21:39:56 +0000] [6225] [server] running command rake
+[2014-11-30 21:39:56 +0000] [6279] [application:test] got client
+[2014-11-30 21:39:56 +0000] [7838] [client] sending command
+[2014-11-30 21:39:56 +0000] [6279] [application:test] forked 7839
+[2014-11-30 21:39:56 +0000] [6225] [application_manager:test] got worker pid 7839
+[2014-11-30 21:39:56 +0000] [7838] [client] got pid: 7839
+[2014-11-30 21:39:58 +0000] [6279] [application:test] 7839 exited with 1
+[2014-11-30 21:39:58 +0000] [7838] [client] got exit status 1
+[2014-11-30 21:40:10 +0000] [6225] [server] accepted client
+[2014-11-30 21:40:10 +0000] [6225] [server] running command rake
+[2014-11-30 21:40:10 +0000] [8017] [client] sending command
+[2014-11-30 21:40:10 +0000] [6279] [application:test] got client
+[2014-11-30 21:40:10 +0000] [6279] [application:test] forked 8018
+[2014-11-30 21:40:10 +0000] [6225] [application_manager:test] got worker pid 8018
+[2014-11-30 21:40:10 +0000] [8017] [client] got pid: 8018
+[2014-11-30 21:40:13 +0000] [6279] [application:test] 8018 exited with 0
+[2014-11-30 21:40:13 +0000] [8017] [client] got exit status 0
