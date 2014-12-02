@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 ruby '2.0.0'
 #ruby-gemset=oct2014
 
@@ -30,10 +30,13 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 gem 'pg', '0.15.1'
+gem 'active_model_serializers', '0.9.0'
 
 group :development do
   gem 'spring', '1.2.0'
 end
+
+gem 'debugger', group: [:development, :test]
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.

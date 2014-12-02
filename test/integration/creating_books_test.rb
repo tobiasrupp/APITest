@@ -9,7 +9,7 @@ class CreatingBooksTest < ActionDispatch::IntegrationTest
       { 'Accept' => 'application/json', 'Content-Type' => 'application/json'}
     assert_equal 201, response.status
     assert_equal Mime::JSON, response.content_type
-    result = json(response.body)
+    result = json(response.body)[:book]
     assert_equal book_url(result[:id]), response.location
     assert_equal 'A title', result[:title]
     assert_equal 5, result[:rating]
