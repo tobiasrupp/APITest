@@ -1,7 +1,9 @@
 APITest::Application.routes.draw do
   
+  get "genres/index"
   resources :books, except: [:update]
   resources :finished_books, except: [:update]
+  resources :genres, except: [:update]
 
 
   # The priority is based upon order of creation: first created -> highest priority.
