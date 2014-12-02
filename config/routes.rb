@@ -1,7 +1,7 @@
 APITest::Application.routes.draw do
   
-  resources :books, except: [:destroy, :update]
-  resources :finished_books, except: [:destroy, :update]
+  resources :books, except: [:update]
+  resources :finished_books, except: [:update]
 
 
   # The priority is based upon order of creation: first created -> highest priority.

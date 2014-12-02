@@ -680,3 +680,92 @@
 [2014-11-30 23:28:12 +0000] [22333] [client] got pid: 22334
 [2014-11-30 23:28:15 +0000] [6279] [application:test] 22334 exited with 0
 [2014-11-30 23:28:15 +0000] [22333] [client] got exit status 0
+[2014-11-30 23:33:53 +0000] [6225] [server] accepted client
+[2014-11-30 23:33:53 +0000] [6225] [server] running command rails_generate
+[2014-11-30 23:33:53 +0000] [22399] [client] sending command
+[2014-11-30 23:33:53 +0000] [6226] [application:development] got client
+[2014-11-30 23:33:53 +0000] [6226] [application:development] forked 22400
+[2014-11-30 23:33:53 +0000] [6225] [application_manager:development] got worker pid 22400
+[2014-11-30 23:33:53 +0000] [22399] [client] got pid: 22400
+[2014-11-30 23:33:54 +0000] [6226] [application:development] 22400 exited with 0
+[2014-11-30 23:33:54 +0000] [22399] [client] got exit status 0
+[2014-11-30 23:33:58 +0000] [6225] [server] accepted client
+[2014-11-30 23:33:58 +0000] [6225] [server] running command rake
+[2014-11-30 23:33:58 +0000] [22402] [client] sending command
+[2014-11-30 23:33:58 +0000] [6279] [application:test] got client
+[2014-11-30 23:33:58 +0000] [6279] [application:test] forked 22403
+[2014-11-30 23:33:58 +0000] [6225] [application_manager:test] got worker pid 22403
+[2014-11-30 23:33:58 +0000] [22402] [client] got pid: 22403
+[2014-11-30 23:34:01 +0000] [6279] [application:test] 22403 exited with 0
+[2014-11-30 23:34:01 +0000] [22402] [client] got exit status 0
+[2014-11-30 23:35:05 +0000] [6225] [server] accepted client
+[2014-11-30 23:35:05 +0000] [6225] [server] running command rake
+[2014-11-30 23:35:05 +0000] [22589] [client] sending command
+[2014-11-30 23:35:05 +0000] [6279] [application:test] got client
+[2014-11-30 23:35:05 +0000] [6279] [application:test] forked 22590
+[2014-11-30 23:35:05 +0000] [6225] [application_manager:test] got worker pid 22590
+[2014-11-30 23:35:05 +0000] [22589] [client] got pid: 22590
+[2014-11-30 23:35:07 +0000] [6279] [application:test] 22590 exited with 0
+[2014-11-30 23:35:07 +0000] [22589] [client] got exit status 0
+[2014-11-30 23:35:45 +0000] [6225] [server] accepted client
+[2014-11-30 23:35:45 +0000] [6225] [server] running command rake
+[2014-11-30 23:35:45 +0000] [6279] [application:test] got client
+[2014-11-30 23:35:45 +0000] [22768] [client] sending command
+[2014-11-30 23:35:45 +0000] [6279] [application:test] forked 22769
+[2014-11-30 23:35:45 +0000] [6225] [application_manager:test] got worker pid 22769
+[2014-11-30 23:35:45 +0000] [22768] [client] got pid: 22769
+[2014-11-30 23:35:48 +0000] [6279] [application:test] 22769 exited with 0
+[2014-11-30 23:35:48 +0000] [22768] [client] got exit status 0
+[2014-11-30 23:36:02 +0000] [6225] [server] accepted client
+[2014-11-30 23:36:02 +0000] [6225] [server] running command rake
+[2014-11-30 23:36:02 +0000] [22945] [client] sending command
+[2014-11-30 23:36:02 +0000] [6279] [application:test] got client
+[2014-11-30 23:36:02 +0000] [6279] [application:test] forked 22946
+[2014-11-30 23:36:02 +0000] [6225] [application_manager:test] got worker pid 22946
+[2014-11-30 23:36:02 +0000] [22945] [client] got pid: 22946
+[2014-11-30 23:36:05 +0000] [6279] [application:test] 22946 exited with 0
+[2014-11-30 23:36:05 +0000] [22945] [client] got exit status 0
+[2014-11-30 23:36:12 +0000] [6225] [server] accepted client
+[2014-11-30 23:36:12 +0000] [6225] [server] running command rake
+[2014-11-30 23:36:12 +0000] [23121] [client] sending command
+[2014-11-30 23:36:12 +0000] [6279] [application:test] got client
+[2014-11-30 23:36:13 +0000] [6279] [application:test] forked 23122
+[2014-11-30 23:36:13 +0000] [6225] [application_manager:test] got worker pid 23122
+[2014-11-30 23:36:13 +0000] [23121] [client] got pid: 23122
+[2014-11-30 23:36:15 +0000] [6279] [application:test] 23122 exited with 0
+[2014-11-30 23:36:15 +0000] [23121] [client] got exit status 0
+[2014-11-30 23:39:26 +0000] [6225] [server] accepted client
+[2014-11-30 23:39:26 +0000] [6225] [server] running command rake
+[2014-11-30 23:39:26 +0000] [23996] [client] sending command
+[2014-11-30 23:39:26 +0000] [6279] [application:test] got client
+[2014-11-30 23:39:26 +0000] [6279] [application:test] forked 23997
+[2014-11-30 23:39:26 +0000] [6225] [application_manager:test] got worker pid 23997
+[2014-11-30 23:39:26 +0000] [23996] [client] got pid: 23997
+[2014-11-30 23:39:29 +0000] [6279] [application:test] 23997 exited with 1
+[2014-11-30 23:39:29 +0000] [23996] [client] got exit status 1
+[2014-11-30 23:50:29 +0000] [6225] [server] accepted client
+[2014-11-30 23:50:29 +0000] [6225] [server] running command rake
+[2014-11-30 23:50:29 +0000] [24099] [client] sending command
+[2014-11-30 23:50:29 +0000] [6279] [application:test] got client
+[2014-11-30 23:50:29 +0000] [6279] [application:test] forked 24100
+[2014-11-30 23:50:29 +0000] [6225] [application_manager:test] got worker pid 24100
+[2014-11-30 23:50:29 +0000] [24099] [client] got pid: 24100
+[2014-11-30 23:50:32 +0000] [6279] [application:test] 24100 exited with 1
+[2014-11-30 23:50:32 +0000] [24099] [client] got exit status 1
+[2014-11-30 23:50:39 +0000] [6225] [server] shutting down
+/usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:131:in `recv_io': file descriptor was not passed (msg_controllen=0 smaller than sizeof(struct cmsghdr)=12) (SocketError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:131:in `block in run'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:125:in `loop'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:125:in `run'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application/boot.rb:18:in `<top (required)>'
+	from /usr/local/rvm/rubies/ruby-2.0.0-p451/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/rvm/rubies/ruby-2.0.0-p451/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from -e:1:in `<main>'
+/usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:131:in `recv_io': file descriptor was not passed (msg_controllen=0 smaller than sizeof(struct cmsghdr)=12) (SocketError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:131:in `block in run'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:125:in `loop'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application.rb:125:in `run'
+	from /usr/local/rvm/gems/ruby-2.0.0-p451@aug2013/gems/spring-1.2.0/lib/spring/application/boot.rb:18:in `<top (required)>'
+	from /usr/local/rvm/rubies/ruby-2.0.0-p451/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/rvm/rubies/ruby-2.0.0-p451/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from -e:1:in `<main>'
