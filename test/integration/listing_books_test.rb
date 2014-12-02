@@ -9,7 +9,7 @@ class ListingBooksTest < ActionDispatch::IntegrationTest
   end
 
   test 'listing books' do
-    get '/books'
+    get '/books.json'
     assert_equal 200, response.status
     assert_equal Mime::JSON, response.content_type
     books = json(response.body)[:books]
@@ -19,7 +19,7 @@ class ListingBooksTest < ActionDispatch::IntegrationTest
   end
 
   test 'list top rated books' do
-    get '/books?rating=5'
+    get '/books.json?rating=5'
     assert_equal 200, response.status
     assert_equal Mime::JSON, response.content_type
     assert_equal 1, json(response.body)[:books].size

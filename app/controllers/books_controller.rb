@@ -6,7 +6,10 @@ class BooksController < ApplicationController
     if rating = params[:rating]
       books = books.where(rating: rating)
     end
-    render json: books, status: 200
+    respond_to do |format|
+      format.xml { render xml: books, status: 200 }
+      format.json { render json: books, status: 200 }
+    end
   end
 
   def create
